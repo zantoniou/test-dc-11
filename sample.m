@@ -1,5 +1,7 @@
 function sample
 	a = 1;
-    sample;
+    for i = 1:10 
+    	disp 1 
+    end
 end
 
