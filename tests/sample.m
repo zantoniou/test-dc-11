@@ -1,2 +1,0 @@
-function tSample.m
-end
