@@ -6,7 +6,7 @@ function sample
 			if true 
     				disp 1
 			end
-            end
+             end
         end
     end
 end
