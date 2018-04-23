@@ -1,2 +1,2 @@
-function sample2
+function sample2 
 end 
