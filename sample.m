@@ -4,7 +4,7 @@ function sample
     	for j = 1:10
         	for k = 1:10 
 			if true 
-    				disp 1
+    				disp 2
 			end
 		end
         end
