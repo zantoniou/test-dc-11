@@ -1,2 +1,0 @@
-function moduleSample4
-end
