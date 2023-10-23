@@ -1,1 +1,1 @@
-# sample_repo 
+# Demo repository for DC
