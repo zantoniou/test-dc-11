@@ -142,3 +142,5 @@ classdef BoxPanel < uix.BoxPanel
     end % accessors
     
 end % classdef
+
+%% test comment.
