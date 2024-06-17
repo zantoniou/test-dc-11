@@ -1,2 +1,2 @@
-# Demo repository for bash. 
+# Demo repository
 test2
